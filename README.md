@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinuxKyrios
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently learning Computer Science, C# with Mono Framework, Angular, React and TypeScript
 - 💞️ I’m looking to collaborate on projetcts that includes Mono/.Net Core, JavaScript, Angular, React, Kotlin and Java
 - 📫 How to reach me ...
 
