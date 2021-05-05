@@ -5,10 +5,10 @@
 - 📫 How to reach me? Use my email, and do not hesitate contact me.
 
 ## The Linux Sith Codex by Linux Kyrios
-### GUI is a Lie. There is only the Console.
-### Through Console I gain the BASH;
-### Through BASH I gain the Root;
-### Through Root I gain the Control;
+### GUI is a Lie. There is only Console.
+### Through Console I gain BASH;
+### Through BASH I gain Root;
+### Through Root I gain Control;
 ### Through Control my limits are Broken.
 ### The Kernel shall free me.
 
