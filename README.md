@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on projetcts that includes Mono/ASP.NET (Core), JavaScript, Angular, React.
 - 📫 How to reach me? Use my email, and do not hesitate contact me.
 
-## The Linux Sith Codex by Linux Kyrios
-### GUI is a Lie. There is only Console.
-### Through Console I gain BASH;
-### Through BASH I gain Root;
-### Through Root I gain Control;
-### Through Control my limits are Broken.
-### The Kernel shall free me.
+### The Linux Sith Codex by Linux Kyrios
+#### GUI is a Lie. There is only Console.
+#### Through Console I gain BASH;
+#### Through BASH I gain Root;
+#### Through Root I gain Control;
+#### Through Control my limits are Broken.
+#### The Kernel shall free me.
 
 <!---
 LinuxKyrios/LinuxKyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
