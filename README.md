@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on projetcts that includes Mono/ASP.NET (Core), JavaScript, Angular, React.
 - 📫 How to reach me? Use my email, and do not hesitate contact me.
 
-### <div style="text-align: justify"> The Linux Sith Codex by Linux Kyrios </div>
-#### <div style="text-align: justify"> GUI is a Lie. There is only Console. </div>
-#### <div style="text-align: justify"> Through Console I gain BASH; </div>
-#### <div style="text-align: justify"> Through BASH I gain Root; </div>
-#### <div style="text-align: justify"> Through Root I gain Control; </div>
-#### <div style="text-align: justify"> Through Control my limits are Broken. </div>
-#### <div style="text-align: justify"> The Kernel shall free me. </div>
+### <p align="justify"> The Linux Sith Codex by Linux Kyrios </p>
+#### <p align="justify"> GUI is a Lie. There is only Console. </p>
+#### <p align="justify"> Through Console I gain BASH; </p>
+#### <p align="justify"> Through BASH I gain Root; </p>
+#### <p align="justify"> Through Root I gain Control; </p>
+#### <p align="justify"> Through Control my limits are Broken. </p>
+#### <p align="justify"> The Kernel shall free me. </p>
 
 <!---
 LinuxKyrios/LinuxKyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
