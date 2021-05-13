@@ -15,23 +15,13 @@
 
 ### My Linux Workstation parameters:
 
-       _,met$$$$$gg.          linuxkyrios@Knightmare-desktop 
-    ,g$$$$$$$$$$$$$$$P.       ------------------------------ 
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64 
- ,$$P'              `$$$.     Kernel: 5.10.0-6-amd64 
-',$$P       ,ggs.     `$$b:   Uptime: 1 hour, 55 mins 
-`d$$'     ,$P"'   .    $$$    Packages: 3459 (dpkg), 14 (snap) 
- $$P      d$'     ,    $$P    Shell: bash 5.1.8 
- $$:      $$.   -    ,d$$'    Resolution: 1920x1080, 1920x1080 
- $$;      Y$b._   _,d$P'      DE: Plasma 
- Y$$.    `.`"Y$$$$P"'         WM: KWin 
- `$$b      "-.__              Theme: WhiteSur-dark [GTK2/3] 
-  `Y$$                        Icons: Mkos-Big-Sur-Night [GTK2/3] 
-   `Y$$.                      Terminal: cool-retro-term 
-     `$$b.                    CPU: Intel i5-3570 (4) @ 3.800GHz 
-       `Y$$b.                 GPU: NVIDIA GeForce GTX 1050 Ti 
-          `"Y$b._             GPU: Intel HD Graphics 
-              `"""            Memory: 8269MiB / 15893MiB 
+- OS: Debian GNU/Linux 11 (bullseye) x86_64 
+- Kernel: 5.10.0-6-amd64 
+- Shell: bash 5.1.8 
+- DE: Plasma 
+- CPU: Intel i5-3570 (4) @ 3.800GHz 
+- GPU: NVIDIA GeForce GTX 1050 Ti 
+- Memory: 15893MiB 
 
                                                       
 <!---
