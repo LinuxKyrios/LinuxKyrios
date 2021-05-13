@@ -12,6 +12,28 @@
 #### <p align="justify"> Through Control my limits are Broken. </p>
 #### <p align="justify"> The Kernel shall free me. </p>
 
+
+### My Linux Workstation parameters:
+
+       _,met$$$$$gg.          linuxkyrios@Knightmare-desktop 
+    ,g$$$$$$$$$$$$$$$P.       ------------------------------ 
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64 
+ ,$$P'              `$$$.     Kernel: 5.10.0-6-amd64 
+',$$P       ,ggs.     `$$b:   Uptime: 1 hour, 55 mins 
+`d$$'     ,$P"'   .    $$$    Packages: 3459 (dpkg), 14 (snap) 
+ $$P      d$'     ,    $$P    Shell: bash 5.1.8 
+ $$:      $$.   -    ,d$$'    Resolution: 1920x1080, 1920x1080 
+ $$;      Y$b._   _,d$P'      DE: Plasma 
+ Y$$.    `.`"Y$$$$P"'         WM: KWin 
+ `$$b      "-.__              Theme: WhiteSur-dark [GTK2/3] 
+  `Y$$                        Icons: Mkos-Big-Sur-Night [GTK2/3] 
+   `Y$$.                      Terminal: cool-retro-term 
+     `$$b.                    CPU: Intel i5-3570 (4) @ 3.800GHz 
+       `Y$$b.                 GPU: NVIDIA GeForce GTX 1050 Ti 
+          `"Y$b._             GPU: Intel HD Graphics 
+              `"""            Memory: 8269MiB / 15893MiB 
+
+                                                      
 <!---
 LinuxKyrios/LinuxKyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
