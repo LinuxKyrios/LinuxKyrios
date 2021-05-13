@@ -15,7 +15,7 @@
 
 
 
-### My Linux Workstation parameters:
+### My Linux Workstation specification:
 
 - OS: Debian GNU/Linux 11 (bullseye) x86_64 
 - Kernel: 5.10.0-6-amd64 
