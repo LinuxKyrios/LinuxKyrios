@@ -13,6 +13,8 @@
 #### <p align="justify"> The Kernel shall free me. </p>
 
 
+
+
 ### My Linux Workstation parameters:
 
 - OS: Debian GNU/Linux 11 (bullseye) x86_64 
