@@ -4,17 +4,6 @@
 - 💞️ I’m looking to collaborate on projetcts that includes Mono/ASP.NET (Core), JavaScript, Angular, React.
 - 📫 How to reach me? Use my email, and do not hesitate contact me.
 
-### <p align="justify"> The Linux Sith Codex by Linux Kyrios </p>
-#### <p align="justify"> GUI is a Lie. There is only Console. </p>
-#### <p align="justify"> Through Console I gain BASH; </p>
-#### <p align="justify"> Through BASH I gain Root; </p>
-#### <p align="justify"> Through Root I gain Control; </p>
-#### <p align="justify"> Through Control my limits are Broken. </p>
-#### <p align="justify"> The Kernel shall free me. </p>
-
-
-
-
 ### My Linux Workstation specification:
 
 - OS: Debian GNU/Linux 11 (bullseye) x86_64 
@@ -25,7 +14,15 @@
 - GPU: NVIDIA GeForce GTX 1050 Ti 
 - Memory: 15893MiB 
 
-                                                      
+### The Linux Sith Codex by Linux Kyrios
+#### GUI is a Lie. There is only Console. 
+#### Through Console I gain BASH; 
+#### Through BASH I gain Root; 
+#### Through Root I gain Control; 
+#### Through Control my limits are Broken.
+#### The Kernel shall free me.
+                      
+                      
 <!---
 LinuxKyrios/LinuxKyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
