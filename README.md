@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LinuxKyrios, one of the biggest fans of the Linux and the OpenSource world. 
-- 👀 I’m interested in web application based on C#/Mono(ASP.NET, ASP.NET Core), JavaScript/TypeScript(Angular, React, Vue) and Python(Flask & Django), as web applications are future of apps. In my modest opinon of course.
+- 👀 I’m interested in web application based on Ruby(Ruby on Rails), JavaScript/TypeScript(Angular, React, Vue) and Python(Flask & Django), as web applications are future of apps. In my modest opinon of course.
 - 🌱 I’m currently Computer Science student, and as a Linuxer I'm learning programming C# with Mono Framework and .NET 5.0, also trying with Angular, React and TypeScript thanks to my postgraduate studies on Internet and Mobile Appplications.
 - 💞️ I’m looking to collaborate on projetcts that includes Mono/ASP.NET (Core), JavaScript, Angular, React.
 - 📫 How to reach me? Use my email, and do not hesitate contact me.
