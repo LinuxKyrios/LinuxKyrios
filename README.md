@@ -8,7 +8,7 @@
 
 - OS: Debian GNU/Linux 11 (bullseye) x86_64 
 - Kernel: 5.16.0-3-amd64 
-- Shell: bash 5.1.16 
+- Shell: Bash 5.1.16, PowerShell 7.2.1
 - DE: Plasma 
 - CPU: Intel i5-3570 (4) @ 3.800GHz 
 - GPU: NVIDIA GeForce GTX 1050 Ti 
